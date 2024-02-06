@@ -1,0 +1,21 @@
+        --color-background: var(--vt-c-black);
+        --color-background-soft: var(--vt-c-black-soft);
+        --color-background-mute: var(--vt-c-black-mute);
+
+        --color-border: var(--vt-c-divider-dark-2);
+        --color-border-hover: var(--vt-c-divider-dark-1);
+
+        --color-heading: var(--vt-c-text-dark-1);
+        --color-text: var(--vt-c-text-dark-2);
+
+
+/*White Theme*/
+    --color-bg-white: hsla(209, 49%, 90%, 1);
+    --color-bg-white-soft: hsla(209, 47%, 80%, 1);
+    --color-bg-white-alt: hsla(209, 31%, 73%, 1);
+
+    --color-bord: hsla(209, 47%, 80%, 1);
+
+    --color-elm: hsla(209, 48%, 50%, 1);
+    --color-elm-alt: hsla(209, 47%, 46%, 0.7);
+    --color-elm-dark: hsla(209, 47%, 20%, 0.2);
